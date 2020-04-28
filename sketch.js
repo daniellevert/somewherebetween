@@ -7,17 +7,20 @@
 // Somewhere Between Connection & Disconnection
 //
 
+var startTime = 0;
+var currentTime = 0;
+var timeleft = getRandomInt(2, 60);
+
 let capture;
 
 var index = 0;
 var connect = 0;
-var button;
+
 var phrase1 = "THIS IS YOUR SELF-ISOLATION.";
 var phrase2 = "SOMEWHERE BETWEEN";
 var phrase3 = "CONNECTION & DISCONNECTION.";
 
 let angle = 0;
-
 let value = 255;
 
 function getRandomInt(min, max) {
@@ -26,17 +29,16 @@ function getRandomInt(min, max) {
   return Math.floor(Math.random() * (max - min + 1)) + min;
 }
 
-var timesArr = [10, 50, 100];
-var timeleft = getRandomInt(2, 60);
-
-var startTime = 0;
-var currentTime = 0;
-
 
 function convertSeconds(s) {
   var min = floor(s / 60);
   var sec = s % 60;
   return nf(min, 2) + ':' + nf(sec, 2);
+}
+
+function preload() {
+  audioPoem = loadSound('somewherebetween.mp3');
+  virus = loadImage('corona.png');
 }
 
 function setup() {
@@ -46,7 +48,7 @@ function setup() {
 
   // console.log("time left: " + timeleft); // for debugging
 
-  audioClip.play();
+  audioPoem.play();
 
   startTime = millis();
 
@@ -101,7 +103,7 @@ function draw() {
     push();
     translate(250, 270);
     rotate(angle);
-    image(loading, 0, 0, 50, 50);
+    image(virus, 0, 0, 50, 50);
     
     angle = angle + 0.01;
     pop();
@@ -125,14 +127,9 @@ function draw() {
       text(phrase3, 250, 125);
       fill(0);
       textSize(15);
-      text("time until disconnect: ", 250, 400);
+      text("time until disconnect:", 250, 400);
     }
   }
-}
-
-function preload() {
-  audioClip = loadSound("somewherebetween.mp3");
-  loading = loadImage("corona.png");
 }
 
 function mouseClicked() {
