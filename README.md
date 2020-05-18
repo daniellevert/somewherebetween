@@ -18,10 +18,11 @@ demonstrating to us just how truly connected we are in some ways through our hum
 disconnected we are now and how disconnected we were before all of this as we begin to see the true 
 inadequacies of technologies in keeping real bonds as we move towards a more technological future.
 
-The user is invited to perform with this digital performance art installation. Clicking to create a
-connection that is finite or to change the text on screen. In addition the user can click and drag on
-the interface to change the mood of their self-isolation. All of these interactions can occur while a
-one-way livestream reflects back to the user how they look experiencing "self-isolation."
+The user is invited to perform with this digital performance art installation. First clicking to create a
+finite connection to view a one-way livestream of their own self-isolation and afterwards clicking to 
+change the text on screen. In addition the user can click and drag on the interface to change the mood 
+of their self-isolation. The livestream connects and disconnects demonstrating the instability of technology 
+and the feelings of togetherness and separateness we're all experiencing during this time. 
 
 This was originally performed with a spoken word piece and live music loop by Daniel LeVert. Audio of 
 a recorded version of this performance is supported in some browsers. Find original spoken word text below.
