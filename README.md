@@ -92,38 +92,70 @@ i just can’t hear you
 
 i just can’t see you
 
+/////////////////
 
 pt. 2 | CONNECTED 
 
 i can hear you 
+
 yeah, i can see you 
+
 so glad we’re all together 
+
 john legend just performed on instagram live 
+
 it gave me hope, it gave me life 
+
 the web has allowed us all to be on the same page 
+
 facing the time apart has showed us what we have in common 
+
 we can hear you 
+
 we can see you 
+
 thanks to everyone for tuning in 
+
 they say in new york they applaud the healthcare workers everyday at 7 
+
 in punjab the air is cleaner because we’re all working together 
+
 the earth can hear us 
+
 the earth can see us 
+
 maybe once this is all over we’ll take better care of her 
+
 and as a result, take better care of each other too 
+
 it says my connection is high speed 
+
 i’ve never gotten this many likes before 
+
 everything is online now 
+
 the livestream is crystal clear 
+
 the memes these days are so relatable 
+
 i guess because we’re all experiencing the same thing 
+
 you know, they say italy might reopen soon 
+
 and we can breathe in the sweet Roman air without a filter 
+
 things are looking up 
+
 the curve is going down 
+
 i just finished my at-home workout routine and i’ve never felt better 
+
 i’ve never felt better 
+
 i almost forgot to ask 
+
 how are you? 
+
 can you hear me? 
+
 can you see me? 
