@@ -31,36 +31,67 @@ ORIGINAL TEXT:
 pt. 1 | DISCONNECTED
 
 can you hear me? 
+
 can you hear me? 
+
 can you see me? 
+
 can you hear me? 
+
 hold on, let me try again 
+
 i think my internet connection is unstable 
+
 i said i think my connection is unstable 
+
 i said i think our connection to each other is unstable 
+
 can you hear me? 
+
 it’s frozen 
+
 my bad, let me try again 
+
 you’re frozen 
+
 we’re frozen, we need to reconnect 
+
 our connection is frozen 
+
 they said staying apart would keep us alive 
+
 can you hear me? 
+
 everyone’s afraid of this thing they can’t see 
+
 can you see me? 
+
 you forgot to tag me in it 
+
 you left me on read 
+
 did you see the tweet i sent you? 
+
 let’s just meet on discord 
+
 i’m running out of bandwidth 
+
 it’s lagging 
+
 I CAN’T FUCKING STAND THIS 
+
 I CAN’T FUCKING STAND YOU 
+
 sorry, I’m not used to using this technology￼ 
+
 why don’t you try calling me back when this is all over?￼ 
+
 this is all over 
+
 i just can’t hear you 
+
 i just can’t see you
+
 
 pt. 2 | CONNECTED 
 
