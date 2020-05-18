@@ -1,5 +1,7 @@
 Title: Somewhere Between Connection & Disconnection
+
 Created by: Daniel LeVert
+
 Created for: ART 151 Course
 
 This project is meant to explore the dichotomy of life during the 21st century global pandemic caused 
@@ -25,7 +27,9 @@ This was originally performed with a spoken word piece and live music loop by Da
 a recorded version of this performance is supported in some browsers. Find original spoken word text below.
 
 ORIGINAL TEXT:
-pt. 1 | DISCONNECTED 
+
+pt. 1 | DISCONNECTED
+
 can you hear me? 
 can you hear me? 
 can you see me? 
@@ -59,6 +63,7 @@ i just can’t hear you
 i just can’t see you
 
 pt. 2 | CONNECTED 
+
 i can hear you 
 yeah, i can see you 
 so glad we’re all together 
