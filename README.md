@@ -4,6 +4,8 @@ Created by: Daniel LeVert
 
 Created for: ART 151 Course
 
+View recorded performance with the program here: https://vimeo.com/414346683
+
 This project is meant to explore the dichotomy of life during the 21st century global pandemic caused 
 by the COVID-19 outbreak. The COVID-19 pandemic has drastically changed the lives of billions around 
 the world overnight. With non-essential businesses closing their doors as people work, learn, and 
