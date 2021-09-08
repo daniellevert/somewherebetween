@@ -2,7 +2,7 @@
 
 **Created by:** Daniel LeVert
 
-**Purpose:** Created for ART 151 Course
+**Purpose:** Created for ART 151 (Creative Coding) Course
 
 **Tech Stack**: p5.js
 
