@@ -35,7 +35,7 @@ This was originally performed with a spoken word piece and live music loop by Da
 a recorded version of this performance is supported in some browsers. Find original spoken word text below.
 
 
-### ORIGINAL TEXT:
+### Original Text
 
 pt. 1 | DISCONNECTED
 
