@@ -4,6 +4,8 @@
 
 **Created for:** ART 151 Course
 
+**Tech Stack**: p5.js
+
 **View recorded performance with the program here:** https://vimeo.com/414346683
 
 This project is meant to explore the dichotomy of life during the 21st century global pandemic caused 
