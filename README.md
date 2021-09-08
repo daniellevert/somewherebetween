@@ -1,10 +1,10 @@
-Title: Somewhere Between Connection & Disconnection
+# Somewhere Between Connection & Disconnection
 
-Created by: Daniel LeVert
+**Created by:** Daniel LeVert
 
-Created for: ART 151 Course
+**Created for:** ART 151 Course
 
-View recorded performance with the program here: https://vimeo.com/414346683
+**View recorded performance with the program here:** https://vimeo.com/414346683
 
 This project is meant to explore the dichotomy of life during the 21st century global pandemic caused 
 by the COVID-19 outbreak. The COVID-19 pandemic has drastically changed the lives of billions around 
@@ -29,7 +29,7 @@ and the feelings of togetherness and separateness we're all experiencing during 
 This was originally performed with a spoken word piece and live music loop by Daniel LeVert. Audio of 
 a recorded version of this performance is supported in some browsers. Find original spoken word text below.
 
-ORIGINAL TEXT:
+### ORIGINAL TEXT:
 
 pt. 1 | DISCONNECTED
 
