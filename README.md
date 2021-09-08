@@ -2,11 +2,14 @@
 
 **Created by:** Daniel LeVert
 
-**Created for:** ART 151 Course
+**Purpose:** Created for ART 151 Course
 
 **Tech Stack**: p5.js
 
 **View recorded performance with the program here:** https://vimeo.com/414346683
+
+
+### Description
 
 This project is meant to explore the dichotomy of life during the 21st century global pandemic caused 
 by the COVID-19 outbreak. The COVID-19 pandemic has drastically changed the lives of billions around 
@@ -30,6 +33,7 @@ and the feelings of togetherness and separateness we're all experiencing during 
 
 This was originally performed with a spoken word piece and live music loop by Daniel LeVert. Audio of 
 a recorded version of this performance is supported in some browsers. Find original spoken word text below.
+
 
 ### ORIGINAL TEXT:
 
